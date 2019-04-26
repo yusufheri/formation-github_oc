@@ -1,2 +1,2 @@
 # formation-github_oc
-Formation git et GitHub sur OpenClassroom
+Repo  réalisé gràce à ma formation git et GitHub sur OpenClassroom, ce repo contient ma première page html et mon fichier js qui affiche Hello wolrd.
